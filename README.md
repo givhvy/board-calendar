@@ -16,4 +16,4 @@ The app boots on `#calendar`.
 
 This is the extracted production build of the Board Calendar screen (split from Board Marketing). Clone, edit the HTML/CSS/JS under `assets/`, and ship.
 
-Live: https://board-calendar.vercel.app
+Live: https://board-calendar-topaz.vercel.app
