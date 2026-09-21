@@ -55,7 +55,6 @@ function getStoredEvents() {
     return [];
   }
 }
-
 export default function Calendar({ query }) {
   const [date, setDate] = useState(new Date(2026, 7, 1));
   const [monthPickerOpen, setMonthPickerOpen] = useState(false);
@@ -204,4 +203,3 @@ export default function Calendar({ query }) {
     </div>
   );
 }
-
