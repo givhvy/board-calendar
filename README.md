@@ -2,6 +2,8 @@
 
 A standalone React and Vite implementation of the Board calendar interface.
 
+Live site: <https://board-calendar-topaz.vercel.app>
+
 ## Features
 
 - Month navigation and month picker
@@ -29,4 +31,3 @@ npm run preview
 ```
 
 Event and theme changes are stored in `localStorage`. The project has no backend and does not send data to an external service.
-
